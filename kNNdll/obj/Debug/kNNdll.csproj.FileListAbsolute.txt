@@ -1,0 +1,6 @@
+E:\C#_VISUAL_STUDIO\kNNdll\kNNdll\obj\Debug\kNNdll.csproj.AssemblyReference.cache
+E:\C#_VISUAL_STUDIO\kNNdll\kNNdll\obj\Debug\kNNdll.csproj.CoreCompileInputs.cache
+E:\C#_VISUAL_STUDIO\kNNdll\kNNdll\bin\Debug\kNNdll.dll
+E:\C#_VISUAL_STUDIO\kNNdll\kNNdll\bin\Debug\kNNdll.pdb
+E:\C#_VISUAL_STUDIO\kNNdll\kNNdll\obj\Debug\kNNdll.dll
+E:\C#_VISUAL_STUDIO\kNNdll\kNNdll\obj\Debug\kNNdll.pdb
